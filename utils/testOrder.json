@@ -1,0 +1,25 @@
+{
+    "shippingInfo": {
+      "address": "1 Mumbai",
+      "city": "Mumbai",
+      "phoneNo": "99448403843",
+      "postalCode": "302020",
+      "state": "Rajasthan",
+      "country": "India"
+    },
+    "orderItems": [
+      {
+        "name": "Pro Coder tshirts",
+        "quantity": 1,
+        "image": "https://res.cloudinary.com/floyden/image/upload/v1636959175/products/l7yggfdzykq6gotr7jxa.jpg",
+        "price": 999,
+        "product": "618e91149164b5115f2b1097"
+      }
+    ],
+    "paymentInfo": {
+      "id": "testString"
+    },
+    "taxAmount": 40,
+    "shippingAmount": 10,
+    "totalAmount": 100
+  }
